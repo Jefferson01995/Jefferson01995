@@ -1,4 +1,4 @@
-# Olá! Eu sou Jefferson 👋
+# Olá! Eu sou Jefferson 
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas
 💻 Foco em Desenvolvimento Web / Front-end
